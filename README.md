@@ -6,5 +6,10 @@
 6: php artisan cache:clear 
 7: php artisan config:cache 
 8: create new database 
-9: php artisan migrate --seed (i make admin login and make 40 album without images can edit or create again) 
-10: php artisan serve
+9: php artisan migrate --seed
+10: jwt (secret key in .env) 
+11: php artisan serve
+
+
+postman published : api
+https://documenter.getpostman.com/view/12275721/2s7ZE8oNVm
